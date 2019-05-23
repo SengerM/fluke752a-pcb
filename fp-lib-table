@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name fluke_752A_pcb_specific_components)(type KiCad)(uri ${KIPRJMOD}/fluke_752A_pcb_specific_components.pretty)(options "")(descr ""))
+)
